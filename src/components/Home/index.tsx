@@ -1,5 +1,5 @@
 import * as C from './style'
-import Logo from '../Imgs/Logo.jpg';
+import Logo from '../Imgs/Logo.png';
 
 export const Home = () => {
     return(
